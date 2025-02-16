@@ -31,4 +31,4 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprender cois
 
 ---
 
-🎯 **"A melhor maneira de aprender é colocar em prática!"**  
+🎯 **"A melhor maneira de aprender é colocar a mão na massa!"**  
