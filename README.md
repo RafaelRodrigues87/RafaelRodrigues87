@@ -1,6 +1,7 @@
 # 👋 Olá, sou Rafael Rodrigues!
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprender coisas novas e colocá-las em prática. Meu foco principal está no desenvolvimento web, utilizando tecnologias modernas para criar soluções eficientes e bem estruturadas.  
+Desenvolvedor backend apaixonado por tecnologia, com foco no desenvolvimento de aplicações web utilizando tecnologias modernas. Estou constantemente em busca de aprender novas ferramentas e aprimorar minhas habilidades, aplicando esse conhecimento na construção de soluções eficientes, seguras e bem estruturadas. Tenho interesse especial em backend com Java e Spring Boot, além de boas práticas de desenvolvimento e arquitetura de software.
+  
 
 ---
 
