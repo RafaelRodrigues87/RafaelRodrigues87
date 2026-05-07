@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Rafael Rodrigues
 
-💻 Desenvolvedor Backend Java focado em construir APIs modernas, seguras e escaláveis utilizando o ecossistema Spring.
+💻 Desenvolvedor Backend Java focado em construir APIs modernas, seguras e escaláveis utilizando o ecossistema Spring Boot.
 
 Atualmente estudo e desenvolvo projetos utilizando Java, Spring Boot, Docker e bancos relacionais, sempre buscando aplicar boas práticas de desenvolvimento, arquitetura limpa e código de qualidade.
 
@@ -39,9 +39,9 @@ Atualmente estudo e desenvolvo projetos utilizando Java, Spring Boot, Docker e b
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelRodrigues87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelRodrigues87&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRodrigues87&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRodrigues87&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -52,15 +52,15 @@ Atualmente estudo e desenvolvo projetos utilizando Java, Spring Boot, Docker e b
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rafael-rodrigues-1603282a5/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:rafaelrodigues87@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/rafaelszx_/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </div>
