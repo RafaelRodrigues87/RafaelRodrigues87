@@ -8,11 +8,71 @@ Desenvolvedor backend apaixonado por tecnologia, com foco no desenvolvimento de 
 ## 🚀 Tecnologias  
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50px" height="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50px" height="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50px" height="50px"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="50px" height="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50px" height="50px"/>
+    <!-- JAVA -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+     alt="Java"
+     width="50px"
+     height="50px"/>
+
+<!-- SPRING BOOT -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+     alt="Spring Boot"
+     width="50px"
+     height="50px"/>
+
+<!-- DOCKER -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+     alt="Docker"
+     width="50px"
+     height="50px"/>
+
+<!-- MYSQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+     alt="MySQL"
+     width="50px"
+     height="50px"/>
+
+<!-- GIT -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+     alt="Git"
+     width="50px"
+     height="50px"/>
+
+<!-- GITHUB -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+     alt="GitHub"
+     width="50px"
+     height="50px"/>
+
+<!-- NODE JS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+     alt="Node.js"
+     width="50px"
+     height="50px"/>
+
+<!-- REACT -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+     alt="React"
+     width="50px"
+     height="50px"/>
+
+<!-- JAVASCRIPT -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+     alt="JavaScript"
+     width="50px"
+     height="50px"/>
+
+<!-- ORACLE -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
+     alt="Oracle"
+     width="50px"
+     height="50px"/>
+
+<!-- JWT -->
+<img src="https://jwt.io/img/pic_logo.svg"
+     alt="JWT"
+     width="50px"
+     height="50px"/>
 </div>
 
 ---
