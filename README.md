@@ -1,74 +1,57 @@
 # 👋 Olá, eu sou Rafael Rodrigues
 
-💻 Desenvolvedor Backend Java focado em construir APIs modernas, seguras e escaláveis utilizando o ecossistema Spring Boot.
+**Desenvolvedor Backend Java | Java + Spring Boot Ecosystem**
 
-Atualmente estudo e desenvolvo projetos utilizando Java, Spring Boot, Docker e bancos relacionais, sempre buscando aplicar boas práticas de desenvolvimento, arquitetura limpa e código de qualidade.
+Sou um desenvolvedor focado na construção de sistemas robustos, escaláveis e seguros. Atualmente, dedico meu tempo ao aperfeiçoamento de APIs RESTful utilizando as melhores práticas do mercado, como **Clean Code**, **SOLID** e **Testes Automatizados**.
+
+*   🌍 Localizado em Pernambuco, Brasil.
+*   🚀 Buscando minha primeira oportunidade como Desenvolvedor Java.
+*   🧪 Atualmente aprofundando conhecimentos em Spring Security, JWT e Mensageria.
 
 ---
 
-# 🚀 Tecnologias & Ferramentas
+### 🛠 Tecnologias & Ferramentas
+
+**Backend & Database**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**Frontend & Scripting**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+### 📂 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **GranaControl** | API de gestão financeira com controle de gastos e dashboard. | Java, Spring Boot, MySQL |
+| **ReservouFC** | Sistema de agendamento para quadras de futebol society. | Spring Boot, JWT, Docker |
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelRodrigues87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRodrigues87&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
-# 📌 Atualmente estudando
-
-- Java + Spring Boot
-- APIs REST
-- Spring Security + JWT
-- Docker
-- Arquitetura de Software
-- Boas práticas backend
-
----
-
-# 📊 GitHub Stats
+### 📫 Conecte-se comigo
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelRodrigues87&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRodrigues87&layout=compact&theme=tokyonight"/>
-
+  <a href="https://www.linkedin.com/in/rafael-rodrigues-1603282a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:rafaelrodigues87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/rafaelszx_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
----
-
-# 📫 Contato
-
 <div align="center">
-
-<a href="https://www.linkedin.com/in/rafael-rodrigues-1603282a5/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:rafaelrodigues87@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/rafaelszx_/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-🚀 “A melhor forma de aprender é construindo.”
-
+  <br />
+  <sub>“A persistência é o caminho do êxito.” 🚀</sub>
 </div>
