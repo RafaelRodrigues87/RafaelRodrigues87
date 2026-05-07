@@ -30,7 +30,7 @@ Sou um desenvolvedor focado na construção de APIs modernas, seguras e escaláv
 
 ### 📌 Conhecimentos em Foco
 
-- **Desenvolvimento Backend:** Java 11/17, Spring Boot 3, JPA / Hibernate.
+- **Desenvolvimento Backend:** Java 17/21, Spring Boot 3, JPA / Hibernate.
 - **Segurança:** Autenticação e Autorização com Spring Security e JWT.
 - **Arquitetura & Qualidade:** Princípios SOLID, Clean Code e APIs RESTful.
 - **Containers & DB:** Docker (Containerização) e modelagem de bancos relacionais (MySQL).
