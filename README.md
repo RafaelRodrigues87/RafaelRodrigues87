@@ -10,7 +10,7 @@ Desenvolvedor backend apaixonado por tecnologia, com foco no desenvolvimento de 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
 
     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
          alt="Java"
          width="50px"
          height="50px"/>
