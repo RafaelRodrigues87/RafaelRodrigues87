@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;REST+APIs+%7C+JWT+%7C+Docker;Clean+Code+%7C+SOLID+%7C+TDD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;REST+APIs+%7C+JWT+%7C+Docker;Clean+Code+%7C+SOLID+%7C+TDD;rafaelrodrigues87.github.io%2Fportifolio)](https://rafaelrodrigues87.github.io/portifolio/)
 
 </div>
 
@@ -18,30 +18,10 @@ Desenvolvedor Backend especializado no ecossistema **Java + Spring Boot**, com f
 
 Atualmente aprofundando conhecimentos em **arquitetura de microsserviços**, **testes automatizados** e **boas práticas de engenharia de software**.
 
-```java
-public class Rafael extends Developer {
-
-    @Override
-    public String[] currentFocus() {
-        return new String[]{
-            "Spring Boot 3 + Java 21",
-            "Microsserviços e Arquitetura REST",
-            "Docker & CI/CD",
-            "Clean Code & SOLID"
-        };
-    }
-
-    @Override
-    public String location() {
-        return "Pernambuco, Brasil 🇧🇷";
-    }
-
-    @Override
-    public String goal() {
-        return "Construir software de qualidade que resolve problemas reais";
-    }
-}
-```
+- 🌍 Localizado em Pernambuco, Brasil 🇧🇷
+- 🚀 Construindo projetos reais com Java e Spring Boot
+- 🎯 Foco em Clean Code, SOLID e arquitetura de software
+- ☕ Apaixonado por resolver problemas através do código
 
 ---
 
@@ -72,6 +52,10 @@ public class Rafael extends Developer {
 
 ## 🚀 Projetos em Destaque
 
+🌐 **Portfólio:** [rafaelrodrigues87.github.io/portifolio](https://rafaelrodrigues87.github.io/portifolio/)
+
+---
+
 ### 💰 GranaControl
 > Sistema completo de controle financeiro pessoal
 
@@ -88,11 +72,13 @@ public class Rafael extends Developer {
 ---
 
 ## 📚 Conhecimentos Técnicos
+```
 Backend         ████████████████████  Spring Boot · JPA · REST · JWT
 Banco de Dados  ████████████████░░░░  MySQL · Modelagem Relacional
 Docker          ████████████░░░░░░░░  Containers · Docker Compose
 Frontend        ████████░░░░░░░░░░░░  React · JavaScript · Bootstrap
 Arquitetura     ████████████░░░░░░░░  SOLID · Clean Code · RESTful
+```
 
 ---
 
@@ -113,6 +99,7 @@ Arquitetura     ████████████░░░░░░░░  SO
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfólio-6366f1?style=for-the-badge&logo=githubpages&logoColor=white)](https://rafaelrodrigues87.github.io/portifolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-rodrigues-1603282a5/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelrodigues87@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaelszx_/)
